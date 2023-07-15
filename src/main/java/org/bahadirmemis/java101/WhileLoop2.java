@@ -1,4 +1,4 @@
-package org.bahadirmemis;
+package org.bahadirmemis.java101;
 
 import java.util.Scanner;
 
